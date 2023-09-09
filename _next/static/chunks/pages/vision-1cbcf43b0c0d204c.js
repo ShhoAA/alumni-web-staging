@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[436],{3416:function(n,i,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/vision",function(){return u(3363)}])},3363:function(n,i,u){"use strict";u.r(i);var t=u(5893);u(7294),i.default=function(){return(0,t.jsx)("div",{children:"Vision"})}}},function(n){n.O(0,[774,888,179],function(){return n(n.s=3416)}),_N_E=n.O()}]);
